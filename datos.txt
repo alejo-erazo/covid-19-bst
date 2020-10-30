@@ -1,0 +1,9 @@
+4
+1053783474,pedro,4
+gripa,tos,fiebre,diarrea
+10537834,luis,2
+gripa,tos
+53783474,carlos,4
+gripa,tos,fiebre,dolor
+1053783474,pedro,3
+gripa,tos,fiebre
